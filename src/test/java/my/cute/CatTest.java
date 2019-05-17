@@ -1,6 +1,6 @@
 package my.cute;
 
-import org.junit.jupiter.Test;
+import org.junit.jupiter.api.Test;
 
 public class CatTest {
     @Test
