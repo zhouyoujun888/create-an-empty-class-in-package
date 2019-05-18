@@ -2,9 +2,9 @@ package my.cute;
 
 import org.junit.jupiter.api.Test;
 
-public class CatTest {
+class CatTest {
     @Test
-    void testNewCat() {
+    public void testNewCat() {
         new Cat();
     }
 }
